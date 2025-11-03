@@ -1,0 +1,7 @@
+SpeechRecognition
+openai
+python-dotenv
+pyaudio
+pipwin
+LocalAudioPlayer
+streamlit
